@@ -1,2 +1,2 @@
 # Posture-Reminder-for-macbook
-project
+school project
